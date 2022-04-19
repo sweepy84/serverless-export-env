@@ -1,4 +1,4 @@
-# ⚡️ Serverless Export Env Plugin- OH
+# ⚡️ Serverless Export Env Plugin
 
 [![serverless](https://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
 [![npm](https://img.shields.io/npm/v/serverless-export-env.svg)](https://www.npmjs.com/package/serverless-export-env)
